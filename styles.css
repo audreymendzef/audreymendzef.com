@@ -87,10 +87,10 @@ body {
 }
 
 .grid {
-  width: 95%;
+  width: 90%;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
+  gap: 20px;
 }
 
 .project-tile {
@@ -106,7 +106,7 @@ body {
 #survey-form,
 #prod-land,
 #tech-doc,
-#tribute {
+#tribute, #migraine-track {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
