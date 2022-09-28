@@ -222,4 +222,10 @@ body {
   grid-template-columns: repeat(1, 1fr);
   gap: 10px;
   }
+  .icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
 } 
