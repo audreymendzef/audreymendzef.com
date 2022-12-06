@@ -106,7 +106,7 @@ body {
 #survey-form,
 #prod-land,
 #tech-doc,
-#tribute, #migraine-track {
+#tribute, #migraine-track, #quote-generator {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
